@@ -6,7 +6,6 @@
 
 <br/>
 
-
 <!-- SOCIAL LINKS -->
 <p>
   <a href="mailto:ravindiayodhya@gmail.com">
@@ -15,7 +14,7 @@
   <a href="https://www.linkedin.com/in/ravindi-ayodhya-1a3a51320" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://your-portfolio-link-here.com](https://ravindi-ayodhya.vercel.app/" target="_blank">
+  <a href="https://ravindi-ayodhya.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://medium.com/@Ravindi373" target="_blank">
@@ -72,11 +71,11 @@
 
 ## Soft Skills
 
-![Team Leadership](https://img.shields.io/badge/Team_Leadership-2193B0?style=for-the-badge)
-![Good Team Player](https://img.shields.io/badge/Good_Team_Player-2193B0?style=for-the-badge)
-![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-2193B0?style=for-the-badge)
-![Time Management](https://img.shields.io/badge/Time_Management-2193B0?style=for-the-badge)
-![Creative Problem Solver](https://img.shields.io/badge/Creative_Problem_Solver-2193B0?style=for-the-badge)
+![Team Leadership](https://img.shields.io/badge/Team_Leadership-F59E0B?style=for-the-badge)
+![Good Team Player](https://img.shields.io/badge/Good_Team_Player-F59E0B?style=for-the-badge)
+![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-F59E0B?style=for-the-badge)
+![Time Management](https://img.shields.io/badge/Time_Management-F59E0B?style=for-the-badge)
+![Creative Problem Solver](https://img.shields.io/badge/Creative_Problem_Solver-F59E0B?style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=100&section=footer"/>
 
