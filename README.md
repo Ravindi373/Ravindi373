@@ -25,8 +25,6 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ravindi-ayodhya&color=2193b0&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2193b0,100:6dd5ed&height=3&width=100%"/>
 
 ## Tech Stack
