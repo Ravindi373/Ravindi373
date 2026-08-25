@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Ravindi%20Ayodhya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<table>
+<tr>
+<td align="center" bgcolor="#0d1117" style="padding:40px 20px; border-radius:8px;">
+<img src="https://img.shields.io/badge/Ravindi_Ayodhya-2193B0?style=for-the-badge&labelColor=0d1117" height="45"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Aspiring_Data_Engineer-6DD5ED?style=flat-square&labelColor=0d1117" height="24"/>
+</td>
+</tr>
+</table>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2193B0&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Ravindi+Ayodhya;Aspiring+Data+Engineer;Building+data+pipelines+that+scale;Turning+raw+data+into+insight" alt="Typing SVG" />
 
@@ -77,6 +85,14 @@
 ![Time Management](https://img.shields.io/badge/Time_Management-F59E0B?style=for-the-badge)
 ![Creative Problem Solver](https://img.shields.io/badge/Creative_Problem_Solver-F59E0B?style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=100&section=footer"/>
+<br/>
+
+<table>
+<tr>
+<td align="center" bgcolor="#0d1117" style="padding:16px;">
+<img src="https://img.shields.io/badge/Thanks_for_visiting-6DD5ED?style=flat-square&labelColor=0d1117" height="24"/>
+</td>
+</tr>
+</table>
 
 </div>
